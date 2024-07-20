@@ -1,0 +1,74 @@
+#desc{
+    width: 800px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+    margin-left: 50px;
+}
+
+#amarimg{
+    width: 500px;
+    height: 400px;
+}
+
+#bb1-img{
+    width: 500px;
+    height: 300px;
+}
+
+#bb2-img{
+    width: 500px;
+    height: 300px;
+    
+}
+
+#bhallal-img{
+    width: 500px;
+    height: 300px;
+}
+
+#bhal-Desc{
+    width: 800px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+    margin-right: 50px;
+}
+
+#ktp-img{
+    width: 300px;
+    height: 300px;
+}
+#ktp-desc{
+
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+    margin-left: 50px;
+    
+}
+#siva-img{
+    width: 300px;
+    height: 300px;
+
+}
+#siva-desc{
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+    margin-left: 50px;
+}
+#mahi-img{
+    height: 300px;
+    width: 300px;
+}
+#mahi-desc{
+    
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    overflow: auto;
+    margin-right: 50px;
+}
